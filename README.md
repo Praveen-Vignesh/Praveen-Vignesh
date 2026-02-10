@@ -14,10 +14,10 @@
 
 ```javascript
 const skills = {
-    frontend: ['React', 'TypeScript'],
-    backend: ['Python', 'Express',],
-    databases: ['SQL'],
-    currentlyExploring: ['NodeJs', 'C++']
+    ✨ frontend: ['React', 'TypeScript'],
+    🧙‍♂️ backend: ['Python', 'Express',],
+    ☁️ databases: ['SQL'],
+    🚀 currentlyExploring: ['NodeJs', 'C++']
 };
 ```
 
@@ -43,7 +43,7 @@ const skills = {
 
 ## 🎲 Random Facts About Me
 
-- 🔭 Currently exploring **Full-Stack Web Development**
+- 🚀 Currently exploring **Full-Stack Web Development**
 - 🎮 When I'm not coding, I'm probably **sleeping**
 - 🎯 2026 Goals: **Get my hands into Machine learning,Learn game dev in c++, there is a lot mooooreeeeee..........**
 
